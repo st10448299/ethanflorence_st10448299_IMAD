@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">assignment 1</string>
+    <string name="history">History</string>
+    <string name="textInt">Please Enter The Age Here</string>
+    <string name="match">Match</string>
+    <string name="search">SEARCH</string>
+    <string name="figure1">Queen elizabeth</string>
+    <string name="figure2">Albert Einstein</string>
+    <string name="figure3">Osama bin Laden</string>
+    <string name="figure4">Nelson Mandela</string>
+    <string name="figure5">Mahatma Gandhi</string>
+    <string name="figure6">Jan van Riebeeck</string>
+    <string name="figure7">pope Francis</string>
+    <string name="figure8"></string>
+    <string name="figure9"></string>
+    <string name="figure10"></string>
+</resources>
